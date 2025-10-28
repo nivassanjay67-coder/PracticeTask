@@ -1,63 +1,63 @@
-// let homework = false
-// if (homework){
-//     console.log("Great Job!");
-// }
-// else{
-//     console.log("Finish your homework before playing");
-// }
+let homework = false
+if (homework){
+    console.log("Great Job!");
+}
+else{
+    console.log("Finish your homework before playing");
+}
 
-// let coolies_left = false
-// if(coolies_left){
-//     console.log("Would you like your cookies?");
+let coolies_left = false
+if(coolies_left){
+    console.log("Would you like your cookies?");
     
-// }
-// else{
-//     console.log("Time to bake more cookies.");
+}
+else{
+    console.log("Time to bake more cookies.");
     
-// }
+}
 
-// let brush = false
-// if(brush){
-//     console.log("Your teeth are clean");
+let brush = false
+if(brush){
+    console.log("Your teeth are clean");
     
-// }
-// else{
-//     console.log("Go brush your teeth now");
+}
+else{
+    console.log("Go brush your teeth now");
     
-// }
+}
 
-// let birthday = false
-// if(birthday){
-//     console.log("Happy birthday! Enjoy your specila day!");
+let birthday = false
+if(birthday){
+    console.log("Happy birthday! Enjoy your specila day!");
     
-// }else{
-//     console.log("Have a great day!");
+}else{
+    console.log("Have a great day!");
     
-// }
+}
 
-// let season = "winter"
-// if(season == "spring"){
-//     console.log("Enjoy the blooming flowers.");
+let season = "winter"
+if(season == "spring"){
+    console.log("Enjoy the blooming flowers.");
     
-// }
-// if(season == "summer"){
-//     console.log("Have fun in the sun.");
+}
+if(season == "summer"){
+    console.log("Have fun in the sun.");
     
-// }
-// if(season == "autumn"){
-//     console.log("Admire the colourful leaves.");
+}
+if(season == "autumn"){
+    console.log("Admire the colourful leaves.");
     
-// }
-// if(season =="winter"){
-//     console.log("Bundle up and stay warm");
+}
+if(season =="winter"){
+    console.log("Bundle up and stay warm");
     
-// }
+}
 
-// let number = "odd"
-// if(number == "even"){
-//     console.log("The number is even");
+let number = "odd"
+if(number == "even"){
+    console.log("The number is even");
     
-// }else{
-//     console.log("the number is odd");
+}else{
+    console.log("the number is odd");
     
-// }
+}
