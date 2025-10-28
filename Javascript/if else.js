@@ -52,3 +52,12 @@
 //     console.log("Bundle up and stay warm");
     
 // }
+
+// let number = "odd"
+// if(number == "even"){
+//     console.log("The number is even");
+    
+// }else{
+//     console.log("the number is odd");
+    
+// }
