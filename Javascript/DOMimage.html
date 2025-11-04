@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2 id="colour">Change Image</h2>
+    <img src="./download.png" alt="This is my image" id="photos"><br><br>
+    <button onclick="changetheimage()">Click Here</button>
+    <script>
+        function changetheimage(){
+            document.getElementById("photos").setAttribute("src","download.jpg")
+            document.getElementById("colour").style.color="blue"
+        }
+    </script>
+</body>
+</html>
