@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .highlights{
+            background-color: gold;
+            font-weight: bold;
+        }
+        p{
+            background-color: blueviolet;
+        }
+    </style>
+</head>
+<body>
+    <p id="change">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum, ex.</p>
+    <button onclick="changetext()">click me</button>
+    <script>
+        function changetext(){
+            document.getElementById("change").classList.toggle("highlights")
+        }
+    </script>
+</body>
+</html>
