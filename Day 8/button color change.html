@@ -22,8 +22,11 @@
             document.body.style.backgroundColor="green"
         })
         let btn = document.getElementById("changecolor")
-        btn.addEventListener("click", function(){
+        btn.addEventListener("mousedown", function(){
             btn.style.backgroundColor="blue"
+        })
+        btn.addEventListener("mouseup", function(){
+            btn.style.backgroundColor="yellow"
         })
     </script>
 </body>
